@@ -1,3 +1,4 @@
+// Criando Mundos - Versão com Senha de Acesso (React + Tailwind + LocalStorage)
 import { useEffect, useState } from 'react';
 
 export default function CriandoMundos() {
